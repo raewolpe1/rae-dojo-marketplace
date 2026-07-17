@@ -8,7 +8,7 @@
     {
       "name": "dojo",
       "source": "./plugins/dojo",
-      "description": "The dojo router: one skill routing to 120 expert advisors, each with a full persona library."
+      "description": "The dojo router: one skill routing to 129 expert advisors, each with a full persona library."
     }
   ]
 }
